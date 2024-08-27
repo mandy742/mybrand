@@ -1,9 +1,20 @@
-# MyBrand
+## MyBrand
 ## Description
 This project is designed to demonstrate various software testing techniques and methodologies. It includes examples of unit testing, integration testing, system testing, and acceptance testing.
 
 ## Table of Contents
-- Installation
+lnstallation
+Usage
+Testing
+Unit Tests
+Integration Tests
+System Tests
+Acceptance Tests
+Screenshot
+Credits
+Repository URL
+
+## Installation
 To get started, clone the repository and install the necessary dependencies:
 
 git clonehttps://github.com/yourusername/software-testing-project.git
