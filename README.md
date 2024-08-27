@@ -1,24 +1,46 @@
-<<<<<<< HEAD
-# Task2
+# MyBrand
 ## Description
-A brief description of your project, its importance, and what it does.
+This project is designed to demonstrate various software testing techniques and methodologies. It includes examples of unit testing, integration testing, system testing, and acceptance testing.
 
 ## Table of Contents
 - Installation
-- Usage
-- Credits
+To get started, clone the repository and install the necessary dependencies:
 
-## Installation
-Instructions on how to install your project locally.
+git clonehttps://github.com/yourusername/software-testing-project.git
+cd software-testing-project
+install
 
 ## Usage
-Instructions on how to use your project after installation. Include screenshots.
+Run the installation using npm start
+
+ ## Testing
+This project includes several types of tests. To run all tests, use the following command:
+npm test
+
+## Unit Tests
+Unit tests are located in the tests/unit directory. Run them with:
+npm run test:unit
+
+## Integration Tests
+Integration tests are located in the tests/integration directory. Run them with:
+npm run test:integration
+
+## System Tests
+System tests are located in the tests/system directory. Run them with:
+npm run test:system
+
+## Acceptance Tests
+Acceptance tests are located in the tests/acceptance directory. Run them with:
+npm run test:acceptance
+
+## Screenshots
+Here are some screenshots of the project in action:
+
+!Screenshot 1 !Screenshot 2
 
 ## Credits
-Highlight and link to the authors of your project.
+Mandy Malanda
+Nsama Ambry
 
 ## Repository URL
-GitHub Repository
-=======
-# mybrand
->>>>>>> 3cf7a3a7601760efb3bd89a35960a81aeb99c16a
+https://github.com/mandy742/mybrand
