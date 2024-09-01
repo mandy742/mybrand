@@ -1,57 +1,29 @@
-## MyBrand
+## MyCapstone project
 ## Description
-This project is designed to demonstrate various software testing techniques and methodologies. It includes examples of unit testing, integration testing, system testing, and acceptance testing.
+This project is a simple shoe inventory management system. It allows users to read shoe data from a file, capture new shoe data, and store it in an inventory. The project demonstrates basic object-oriented programming concepts in Python, including class creation, methods, and file handling.
 
 ## Table of Contents
 lnstallation
 Usage
-Testing
-Unit Tests
-Integration Tests
-System Tests
-Acceptance Tests
-Screenshot
 Credits
 Repository URL
 
 ## Installation
 To get started, clone the repository and install the necessary dependencies:
 
-git clonehttps://github.com/yourusername/software-testing-project.git
-cd software-testing-project
-install
+git clone https://github.mandy742/capstoneproject
+
+cd shoe-capstone project
+
 
 ## Usage
-Run the installation using npm start
-
- ## Testing
-This project includes several types of tests. To run all tests, use the following command:
-npm test
-
-## Unit Tests
-Unit tests are located in the tests/unit directory. Run them with:
-npm run test:unit
-
-## Integration Tests
-Integration tests are located in the tests/integration directory. Run them with:
-npm run test:integration
-
-## System Tests
-System tests are located in the tests/system directory. Run them with:
-npm run test:system
-
-## Acceptance Tests
-Acceptance tests are located in the tests/acceptance directory. Run them with:
-npm run test:acceptance
-
-## Screenshots
-Here are some screenshots of the project in action:
-
-!Screenshot 1 !Screenshot 2
+Run the python capstone project.py
+Follow the prompts to enter new shoe data (country, code, product, cost, quantity).
+The new data will be appended to the inventory.txt
 
 ## Credits
 Mandy Malanda
-Nsama Ambry
+Coding mentors
 
 ## Repository URL
-https://github.com/mandy742/mybrand
+https://github.com/mandy742/mandycapstone/blob/main/README.md?plain=1
