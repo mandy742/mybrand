@@ -26,4 +26,4 @@ Mandy Malanda
 Coding mentors
 
 ## Repository URL
-https://github.com/mandy742/mandycapstone/blob/main/README.md?plain=1
+https://github.com/mandy742/mybrand.git
