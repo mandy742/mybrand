@@ -11,7 +11,7 @@ Repository URL
 ## Installation
 To get started, clone the repository and install the necessary dependencies:
 
-git clone https://github.com/mandy742/mybrand/tree/main/L1T30%20-%20Capstone%20Project%20-%20OOP/10-031%20Capstone%20Project%20-%20OOP
+git clone C:\Users\mchip\Dropbox\MM24040014792\3 - Advanced Software Engineering\L3T06 - Build your Brand - GitHub Portfolio\10-031 Capstone Project - OOP
 
 
 cd shoe-capstone project
