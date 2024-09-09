@@ -1,0 +1,6 @@
+task 1 link
+https://github.com/mandy742/gitTask
+https://github.com/mandy742/gitTask/settings/access
+
+task2link
+https://github.com/mandy742/mybrand/tree/main/10-031%20Capstone%20Project%20-%20OOP
